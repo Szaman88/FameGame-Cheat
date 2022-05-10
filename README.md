@@ -14,6 +14,11 @@ pip install pyautogui
 pip install opencv-python
 ```
     
+## Demo
+
+https://youtu.be/BQDlQtsAYJM
+
+
 ## Authors
 
 - [@XNizi](https://www.github.com/xnizi)
