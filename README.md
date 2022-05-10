@@ -22,7 +22,7 @@ pip install opencv-python
 
 ## Support
 
-For support, Nizi#0001
+For support, Nizi#0001 (Discord)
 
 
 ## Authors
