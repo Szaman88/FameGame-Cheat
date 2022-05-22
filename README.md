@@ -23,7 +23,7 @@ pip install Pillow
 
 ## Support
 
-For support, Nizi#0001 (Discord)
+For support, Nizi#6635 (Discord)
 
 
 ## Authors
